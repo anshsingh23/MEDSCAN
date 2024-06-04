@@ -118,4 +118,4 @@ Contributions are welcome! Please create a pull request or open an issue to disc
 ## Contact
 
 - **Project Repository:** [MedScan](https://github.com/ABHAY-05/MEDSCAN.git)
-- **Email:** abhayvermajune5@gmail.com
+- **Email:** ksingh.ansh2002@gmail.com
